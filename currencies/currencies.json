@@ -4,7 +4,7 @@
             "id": "prosportcoin",
             "namespace": "prosport",
             "name": "ProSportCoin",
-            "img": "https://arus-ag.github.io/prosport-resources/prosport.png",
+            "img": "https://arus-ag.github.io/prosport-resources/currencies/prosport.png",
             "rate": "2",
             "divisibility": "6"
         }
