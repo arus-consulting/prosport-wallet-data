@@ -1,0 +1,12 @@
+{
+	"currencies": [
+        {
+            "id": "prosportcoin",
+            "namespace": "prosport",
+            "name": "ProSportCoin",
+            "img": "https://didkovsky.github.io/prosport-currencies/prosport.png",
+            "rate": "2",
+            "divisibility": "6"
+        }
+	]
+}
