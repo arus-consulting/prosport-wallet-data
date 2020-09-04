@@ -6,6 +6,7 @@
             "name": "ProSportCoin",
             "img": "https://arus-ag.github.io/prosport-resources/currencies/prosport.png",
             "rate": "2",
+            "rateUrl": "http://165.232.72.203:3000/ps",
             "divisibility": "6"
         }
 	]
